@@ -60,5 +60,3 @@ The script assumes a system with four CPU cores. If your system has a different 
 Also, always make sure to monitor the size of `system_metrics.csv` since the script keeps appending data every second. Depending on your use case, you might want to run the script for specific durations or implement a rotation mechanism for the CSV file.
 
 ---
-
-I hope this README provides a comprehensive overview of the script and its functionalities. Let me know if you need any further details or clarifications!
